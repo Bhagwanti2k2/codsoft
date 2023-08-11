@@ -1,0 +1,63 @@
+.row
+{
+    padding: 80px;
+   
+.container
+{
+    background-color: antiquewhite;
+}
+}
+.button
+{
+    width:300px;
+    height:300px;
+}
+input[type="textbox"]
+{
+    height:150px;
+    width:600px;
+    border: 2px;
+}
+
+    button
+    {
+        height:40px;
+        width:75px;
+        background-color: cornflowerblue;
+        font-size: 30px;
+    }
+    #input
+    {
+        width:200px;
+        height:32px;
+    }
+    #clear
+    {
+        width:100px;
+        font-size:30px;
+        background-color: cornflowerblue;
+        padding-left: 8px;
+        padding-right: 8px;
+
+        margin-left: 12px;
+    }
+    
+    div
+    {
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+        border:2px;
+    }
+    table{
+        width: 500px;
+        height: 300px;
+
+    }
+    td
+    {
+        text-align: center;
+        padding-bottom: 16px;
+        padding-top: 16px;
+        background-color: antiquewhite;
+    }
